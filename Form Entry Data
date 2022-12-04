@@ -46,7 +46,7 @@ namespace TugasDelegateDanEvent
             return a / b;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void buttonProses_Click(object sender, EventArgs e)
         {
             
             if (isNewData) cal = new Calculator();
